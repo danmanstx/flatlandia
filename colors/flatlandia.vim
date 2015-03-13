@@ -25,7 +25,7 @@ hi StatusLine guifg=#f8f8f8 guibg=#292c2f guisp=#292c2f gui=bold ctermfg=15 cter
 hi NonText guifg=#2d3033 guibg=#2d3033 guisp=#2d3033 gui=NONE ctermfg=237 ctermbg=237 cterm=NONE
 hi VertSplit guifg=#2d3033 guibg=#2d3033 guisp=#2d3033 gui=NONE ctermfg=237 ctermbg=237 cterm=NONE
 "hi TabLineSel -- no settings --
-hi LineNr guifg=#515253 guibg=#2c2f31 guisp=#2c2f31 gui=NONE ctermfg=237 ctermbg=237 cterm=NONE
+hi LineNr guifg=#b9b9ba guibg=#2c2f31 guisp=#2c2f31 gui=NONE ctermfg=237 ctermbg=237 cterm=NONE
 hi TabLineFill guifg=#e2e4e5 guibg=#212325 guisp=#212325 gui=NONE ctermfg=254 ctermbg=234 cterm=NONE
 hi TabLine guifg=#797a7b  guibg=#212325 guisp=#212325 gui=NONE ctermfg=248 ctermbg=234 cterm=NONE
 hi TabLineSel gui=bold guifg=#c9cacb ctermfg=248 ctermbg=234 cterm=NONE
@@ -53,7 +53,7 @@ hi Delimiter guifg=#f8f8f8 guibg=NONE guisp=NONE gui=NONE ctermfg=15 ctermbg=NON
 hi Statement guifg=#f6f080 guibg=NONE guisp=NONE gui=NONE ctermfg=215 ctermbg=NONE cterm=NONE
 "hi SpellRare -- no settings --
 "hi EnumerationValue -- no settings --
-hi Comment guifg=#60666b guibg=NONE guisp=NONE gui=NONE ctermfg=242 ctermbg=NONE cterm=NONE
+hi Comment guifg=#B799E6 guibg=NONE guisp=NONE gui=NONE ctermfg=242 ctermbg=NONE cterm=NONE
 hi Character guifg=#b8d977 guibg=NONE guisp=NONE gui=NONE ctermfg=150 ctermbg=NONE cterm=NONE
 hi Number guifg=#b8d977 guibg=NONE guisp=NONE gui=NONE ctermfg=150 ctermbg=NONE cterm=NONE
 hi Boolean guifg=#b8d977 guibg=NONE guisp=NONE gui=NONE ctermfg=150 ctermbg=NONE cterm=NONE
